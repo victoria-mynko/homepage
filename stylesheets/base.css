@@ -2093,20 +2093,6 @@ li.bordered > ul > details > div {
   background-color: chartreuse;
 }
 
-/* Audio button */
-button.audio {
-  cursor: pointer;
-  background: inherit;
-  font: inherit;
-  border: none;
-  margin: 0;
-  padding: 0;
-}
-button.audio svg {
-  height: 16px;
-  width: 16px;
-  vertical-align: text-top;
-}
 
 /* Resume */
 #resume {
